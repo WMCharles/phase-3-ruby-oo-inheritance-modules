@@ -2,6 +2,6 @@
 
 require_relative "../lib/kid"
 require_relative "../lib/dancer"
-
+require_relative "../lib/meta_dancing_module.rb"
 puts Kid.metadata
 puts Dancer.metadata
